@@ -1,0 +1,4 @@
+git clone  ----// git url
+git add  .
+git commit  :save
+git push // push into github
