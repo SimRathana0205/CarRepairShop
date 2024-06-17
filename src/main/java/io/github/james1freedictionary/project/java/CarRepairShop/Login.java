@@ -1,3 +1,4 @@
+package io.github.james1freedictionary.project.java.CarRepairShop;
 
 
 
@@ -41,7 +42,7 @@ public class Login extends javax.swing.JFrame {
         jLabel5.setForeground(new java.awt.Color(255, 255, 255));
         jLabel5.setText("CarRepairShop");
 
-        jLabel6.setIcon(new javax.swing.ImageIcon("C:\\Users\\Bun Heng\\Downloads\\car.png")); // NOI18N
+        jLabel6.setIcon(new javax.swing.ImageIcon("C:\\Users\\User\\Desktop\\Java\\CarRepairShop\\src\\main\\java\\io\\github\\james1freedictionary\\project\\java\\CarRepairShop\\img\\car.png")); // NOI18N
 
         javax.swing.GroupLayout RightLayout = new javax.swing.GroupLayout(Right);
         Right.setLayout(RightLayout);
